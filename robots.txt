@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: ruiyamawaki.github.io/sitemap.xml
